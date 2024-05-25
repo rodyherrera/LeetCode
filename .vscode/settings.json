@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c"
+    }
+}
